@@ -1,3 +1,3 @@
-## *clean speech* file
+## *clean speech* folder
 
 Used to store clean speech
